@@ -21,6 +21,7 @@ LKINC ?=  lk/trusty \
           app \
           external \
           lib \
+          device/x86/sand \
           device/arm/generic-arm64 \
           device/arm/vexpress-a15 \
           vendor/google/aosp \
