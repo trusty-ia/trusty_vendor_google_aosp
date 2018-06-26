@@ -28,3 +28,4 @@ LKINC ?=  lk/trusty \
           system/gatekeeper \
           hardware/libhardware \
           vendor/google/aosp \
+          platform/sand \
